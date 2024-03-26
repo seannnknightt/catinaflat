@@ -1,0 +1,398 @@
+
+<!DOCTYPE html><html lang=en-us translate=no class=notranslate data-base-path=https://catinaflat.com data-market=us data-is-dev=False data-gtm-id=GTM-5XMPWBN> <head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=author content="Cat in a Flat Limited"><!--<meta name="mobile-web-app-capable" content="yes">--><meta name=google content=notranslate><!-- Preconnect to google for recaptcha, perhaps --><link rel=preconnect href=https://www.google.com><link rel=preconnect href=https://www.gstatic.com crossorigin><!-- Let apple users know about the app --><meta name=apple-itunes-app content="app-id=1480516901, app-argument=https://catinaflat.com/blog"><link rel="shortcut icon" href=/static/favicon.ico><link rel=apple-touch-icon sizes=57x57 href=/static/apple-icon-57x57.png title="Cat in a Flat"><link rel=apple-touch-icon sizes=72x72 href=/static/apple-icon-72x72.png title="Cat in a Flat"><link rel=apple-touch-icon sizes=76x76 href=/static/apple-icon-76x76.png title="Cat in a Flat"><link rel=apple-touch-icon sizes=120x120 href=/static/apple-icon-120x120.png title="Cat in a Flat"><link rel=apple-touch-icon sizes=144x144 href=/static/apple-icon-144x144.png title="Cat in a Flat"><link rel=apple-touch-icon sizes=152x152 href=/static/apple-icon-152x152.png title="Cat in a Flat"><link rel=apple-touch-icon sizes=180x180 href=/static/apple-icon-180x180.png title="Cat in a Flat"><link rel=icon type=image/png href=/static/favicon-16x16.png sizes=16x16><link rel=icon type=image/png href=/static/favicon-32x32.png sizes=32x32><!-- Let android know that there's an app you can use instead --><link rel=alternate href=android-app://com.catinaflat.webapp/https/*.catinaflat.com><link rel=alternate href=android-app://com.catinaflat.webapp/https/catinaflat.com><!-- Facebook verification, sigh --><meta name=facebook-domain-verification content=khbd37lq734q34zrdi9aelwsndcmqx><!-- Android integration --><link rel=manifest href=/static/manifest.json><meta name=theme-color content=#f4715f><!-- Apple web app capable integration? May only be supported if we rebuild the site
+         to only have javascript link navigation, which is mental.
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes"> --><meta name=msapplication-TileColor content=#ffffff><meta name=msapplication-config content=/static/browserconfig.xml><!-- social metatags --><meta property=og:site_name content="Cat in a Flat"><meta property=og:title content="Cat in a Flat"><meta property=og:url content=catinaflat.com><meta property=og:image content=https://catinaflat.com/static/imgs/share-1c5e05fc.jpg><meta property=og:description content="Find A Trusted Cat Sitter Near You. Our Sitters Offer A Drop-in Or House Sitting Service And Are Vetted By Cat in a Flat. Join For Free Now."><meta name=twitter:card content=summary><meta name=twitter:site content=@catinaflat><meta name=twitter:title content="Cat in a Flat"><meta name=twitter:description content="Find A Trusted Cat Sitter Near You. Our Sitters Offer A Drop-in Or House Sitting Service And Are Vetted By Cat in a Flat. Join For Free Now."><meta name=twitter:creator content=@catinaflat><meta name=twitter:image:src content=https://catinaflat.com/static/imgs/share-1c5e05fc.jpg><meta name=twitter:domain content=catinaflat.com><meta itemprop=name content="Cat in a Flat"><meta itemprop=description content="Find A Trusted Cat Sitter Near You. Our Sitters Offer A Drop-in Or House Sitting Service And Are Vetted By Cat in a Flat. Join For Free Now."><meta itemprop=image content=https://catinaflat.com/static/imgs/share-1c5e05fc.jpg><meta name=name content="Cat in a Flat"><meta name=description content="Find A Trusted Cat Sitter Near You. Our Sitters Offer A Drop-in Or House Sitting Service And Are Vetted By Cat in a Flat. Join For Free Now."><meta name=image content=https://catinaflat.com/static/imgs/share-1c5e05fc.jpg><!-- end social metatags --><title>Cat in a Flat - Cat care tips &amp; info</title><meta name=viewport content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"><!-- Preload our font(s) --><link rel=preload as=font href=https://catinaflat.com/static/fonts/Cat-in-a-Flat-Regular-14ce6c17.woff type=font/woff crossorigin><link rel=preload as=font href=https://catinaflat.com/static/fonts/Cat-in-a-Flat-Regular-9f959d70.ttf type=font/ttf crossorigin><link href=https://catinaflat.com/static/css/mobile-first-1c5018cc.css rel=stylesheet><!-- Google Tag Manager and Analytics code, ready to insert if we're allowed, managed by our cookies object now --></head> <body route=blog_root> <div class="InteractionBlocker CookieConsent" id=cookie-consent> <div class="Alert Alert--cookies" id=cookie-consent-banner> <div class=Alert--cookiesInner> <div class=CookieConsent-description> <p> We use cookies to personalise content and ads. Please accept our use of cookies to give you the best online experience. You can read more and configure your options on our <a href=https://catinaflat.com/cookies>cookie policy</a>. </p> </div> <div class=CookieConsent-options> <button data-destination="https://catinaflat.com/cookies?cookie-sliders=1" id=cookie-banner-manage class="Btn Btn--purple Btn--underlined Btn--noHover">Manage</button> <button id=cookie-banner-accept-all class="Btn Btn--orange Btn--blueHover">Accept</button> </div> </div> </div> </div> <div class=StickyHeader> <div class=Masthead id=masthead> <header class=Masthead-banner role=banner> <a href=/ class=Masthead-logo> Cat in a flat </a> <div class=Masthead-search style="margin-right: auto;"> <a class="Masthead-searchIcon find-a-sitter-link" href="https://catinaflat.com/search?no_postcode=1">SearchIcon</a> <form class=Masthead-searchForm role=form action=https://catinaflat.com/search method=GET> <input class=Masthead-searchFormInput id=postcode name=postcode placeholder="Find a sitter near you" type=text value> <input type=hidden name=start_date value=2024-03-26> <input type=hidden name=end_date value=2024-03-26> <button class="Btn Masthead-searchFormGo"></button> </form> <ul class="Masthead-siteNav Masthead-siteNav--left hidden-flex-xs"> </ul> </div> <div class="visible-xs Masthead-centralNav"> <a class="Masthead-siteNavItemInner country-select-launcher" href=# onclick="showCountrySelect(); return false;" data-locale-name=en_US> <img src=https://catinaflat.com/static/imgs/US_flag_icon-936feee6.svg alt="Flag icon" style="width: 16px;"> <span class=pipe>|</span> EN </a> </div> <script type=text/html id=authenticated_template>
+      <ul class="Masthead-userNav">
+        <!-- ko if: customer_support -->
+        <li class="Masthead-userNavItem hidden-xs">
+            <a class="Masthead-userNavItemInner" href="https://catinaflat.com/admin" style="color: white; text-transform: uppercase; font-weight: 400;">
+                Admin
+            </a>
+        </li>
+        <!-- /ko -->
+        <li class="Masthead-userNavItem">
+          <a class="Masthead-userNavItemInner Masthead-userNavItemInner--avatar " 
+                data-bind="attr: {href: edit_profile_url}">
+              <img class="Masthead-userNavItemImage" data-bind="attr:{src: avatar}" />
+              <span class="hidden-inline-block-xs Masthead-profile-dropdown">
+                  <!-- TODO: implement a dropdown -->
+                  
+              </span>
+          </a>
+          <!-- ko template: { name: 'navigation_submenu_template' } --><!-- /ko -->
+        </li>
+        <!-- ko if: owner && has_favourites -->
+        <li class="Masthead-userNavItem">
+            <a data-bind="css: {'is-inactive': has_favourites == false}" class="Masthead-userNavItemInner Masthead-userNavItemInner--favourites " href="https://catinaflat.com/favourites">FavouriteIcon</a>
+        </li>
+        <!-- /ko -->
+        <li class="Masthead-userNavItem">
+          <a class="Masthead-userNavItemInner Masthead-userNavItemInner--messages "
+             data-bind="attr: {'href': bookings_url}, css:{'is-unread': has_unread}">MessagesIcon</a>
+        </li>
+      </ul>
+    </script> <script type=text/html id=navigation_template>
+      <div class="Masthead-drawer" role="navigation">
+        <div class="Masthead-drawerInner">
+          <ul class="Masthead-siteNav">
+            <li class="Masthead-siteNavItem is--burgeronly">
+              <a class="Masthead-siteNavItemInner Masthead-siteNavItemInner--spinner find-a-sitter-link" href="https://catinaflat.com/search?no_postcode=1">Search</a>
+            </li>
+            <!-- ko if: authenticated -->
+                <!-- Inbox -->
+                <li class="Masthead-siteNavItem is--burgeronly">
+                    <a class="Masthead-siteNavItemInner Masthead-siteNavItemInner--spinner"
+                       data-bind="attr: {href: bookings_url}">
+                        Inbox
+                    </a>
+                </li>
+                <li class="Masthead-siteNavItem is--burgeronly">
+                    <a class="Masthead-siteNavItemInner Masthead-siteNavItemInner--spinner" data-bind="attr: {href: edit_profile_url}">
+                        Edit Profile
+                    </a>
+                </li>
+                <li class="Masthead-siteNavItem is--burgeronly">
+                    <a class="Masthead-siteNavItemInner Masthead-siteNavItemInner--spinner" data-bind="attr: {href: choose_user_profile}">
+                        View Profile
+                    </a>
+                </li>
+                <li class="Masthead-siteNavItem is--burgeronly">
+                    <a class="Masthead-siteNavItemInner Masthead-siteNavItemInner--spinner" data-bind="attr: {href: clients_url}">
+                        Cat Photos
+                    </a>
+                </li>
+                <li class="Masthead-siteNavItem is--burgeronly">
+                    <a class="Masthead-siteNavItemInner Masthead-siteNavItemInner--spinner" data-bind="attr: {href: forms_url}">
+                        Forms &amp; Tips
+                    </a>
+                </li>
+                <!-- ko if: sitter -->
+                <li class="Masthead-siteNavItem is--burgeronly">
+                    <a class="Masthead-siteNavItemInner Masthead-siteNavItemInner--spinner" data-bind="attr: {href: settings_url + '#availability'}">
+                        My Availability
+                    </a>
+                </li>
+                <!-- /ko -->
+                <li class="Masthead-siteNavItem is--burgeronly">
+                    <a class="Masthead-siteNavItemInner Masthead-siteNavItemInner--spinner" data-bind="attr: {href: settings_url}">
+                        Settings
+                    </a>
+                </li>
+                <!-- ko if: customer_support -->
+                <li class="Masthead-siteNavItem is--burgeronly">
+                    <a class="Masthead-siteNavItemInner Masthead-siteNavItemInner--spinner" href="https://catinaflat.com/admin">
+                        Admin
+                    </a>
+                </li>
+                <!-- /ko -->
+            <!-- /ko -->
+            <!-- ko ifnot: authenticated && sitter -->
+              <li class="Masthead-siteNavItem is--burgeronly">
+                <a class="Masthead-siteNavItemInner" id="become-a-cat-sitter--burger" href="https://catinaflat.com/register">Become a Cat Sitter</a>
+              </li>
+            <!-- /ko -->
+            <!-- ko ifnot: authenticated && owner -->
+            <!-- Seems K&J do not want this navigation option
+            <li class="Masthead-siteNavItem is--burgeronly">
+                <a class="Masthead-siteNavItemInner require-signup" href="https://catinaflat.com/signup">
+                    Join to book
+                </a>
+            </li>
+            -->
+            <!-- /ko -->
+          </ul>
+          <ul class="Masthead-siteNav Masthead-siteNav--secondary">
+            
+            
+            <li class="Masthead-siteNavItem is--not-burger siteNav--orange">
+                <a class="Masthead-siteNavItemInner siteNav--orange" href="https://catinaflat.com/blog">
+                    Blog
+                </a>
+            </li>
+            <!-- ko ifnot: authenticated -->
+            <li class="Masthead-siteNavItem is--not-burger">
+                <a class="Masthead-siteNavItemInner " id="become-a-cat-sitter--secondary" href="https://catinaflat.com/register">Become a Cat Sitter</a>
+            </li>
+            <li class="Masthead-siteNavItem is--not-burger">
+                <a class="Masthead-siteNavItemInner require-signup" href="https://catinaflat.com/signup">
+                    Join to book
+                </a>
+            </li>
+            <!-- /ko -->
+            <li class="Masthead-siteNavItem is--burgeronly">
+                
+<a class="Masthead-siteNavItemInner country-select-launcher" href="#" onclick="showCountrySelect(); return false;" data-locale-name="en_US">
+    <img src="https://catinaflat.com/static/imgs/US_flag_icon-936feee6.svg" alt="Flag icon" style="width: 16px;" /> <span class="pipe">|</span> EN
+</a>
+
+            </li>
+            <li class="Masthead-siteNavItem is--burgeronly">
+                <a class="Masthead-siteNavItemInner" href="https://support.catinaflat.com/en/support/home">
+                    Help
+                </a>
+            </li>
+            <li class="Masthead-siteNavItem is--burgeronly">
+                <!-- How it works -->
+                <a href="https://catinaflat.com/howto" class="Masthead-siteNavItemInner">How it works</a>
+            </li>
+            <li class="Masthead-siteNavItem is--burgeronly">
+                <a class="Masthead-siteNavItemInner" href="https://catinaflat.com/blog">
+                    Blog
+                </a>
+            </li>
+            <!-- ko if: authenticated -->
+            <li class="Masthead-siteNavItem is--burgeronly">
+                <a class="Masthead-siteNavItemInner " href="https://catinaflat.com/logout">
+                    Logout
+                </a>
+            </li>
+            <!-- /ko -->
+            <!-- ko ifnot: authenticated -->
+            <li class="Masthead-siteNavItem">
+                <a class="Masthead-siteNavItemInner " href="https://catinaflat.com/login" id="login-link">
+                    Login
+                </a>
+            </li>
+            <!-- /ko -->
+            <li class="Masthead-siteNavItem is--burgeronly">
+                <a class="Masthead-siteNavItemInner " href="https://catinaflat.com/" id="home-link-burger">
+                    Home
+                </a>
+            </li>
+          </ul>
+        </div>
+      </div>  
+    </script> <script type=text/html id=navigation_submenu_template>
+        <div id="Masthead-userNav--dropdown" class="Masthead-userNav--dropdown">
+            <ul class="Masthead-userDropdownList">
+                <!-- Inbox -->
+                <li class="Masthead-userDropdownItem">
+                    <a class="Masthead-userDropdownItem Masthead-userDropdownItem--spinner"
+                       data-bind="attr: {href: bookings_url}">
+                        Inbox
+                    </a>
+                </li>
+                <!-- Edit Profile -->
+                <li class="Masthead-userDropdownItem">
+                    <a class="Masthead-userDropdownItem Masthead-userDropdownItem--spinner"
+                        data-bind="attr: {href: edit_profile_url}">
+                        Edit Profile
+                    </a>
+                </li>
+                <!-- View Profile -->
+                <li class="Masthead-userDropdownItem">
+                    <a class="Masthead-userDropdownItem Masthead-userDropdownItem--spinner"
+                        data-bind="attr: {href: choose_user_profile}">
+                        View Profile
+                    </a>
+                </li>
+                <!-- Cat photos - either clients or family -->
+                <li class="Masthead-userDropdownItem">
+                    <a class="Masthead-userDropdownItem Masthead-userDropdownItem--spinner"
+                        data-bind="attr: {href: clients_url}">
+                        Cat Photos
+                    </a>
+                </li>
+                <!-- Forms and Tips -->
+                <li class="Masthead-userDropdownItem">
+                    <a class="Masthead-userDropdownItem Masthead-userDropdownItem--spinner" 
+                        data-bind="attr: {href: forms_url}">
+                        Forms &amp; Tips
+                    </a>
+                </li>
+                <!-- My Availability (if you're a sitter )-->
+                <!-- ko if: sitter -->
+                <li class="Masthead-userDropdownItem">
+                    <a class="Masthead-userDropdownItem Masthead-userDropdownItem--spinner" 
+                        data-bind="attr: {href: settings_url + '#availability'}">
+                        My Availability
+                    </a>
+                </li>
+                <!-- /ko -->
+                <!-- Settings (any user )-->
+                <li class="Masthead-userDropdownItem">
+                    <a class="Masthead-userDropdownItem Masthead-userDropdownItem--spinner" 
+                        data-bind="attr: {href: settings_url}">
+                        Settings
+                    </a>
+                </li>
+                <!-- How it works -->
+                <li class="Masthead-userDropdownItem">
+                    <a href="https://catinaflat.com/howto" class="Masthead-userDropdownItem Masthead-userDropdownItem--spinner">How it works</a>
+                </li>
+                <!-- ko ifnot: authenticated && sitter -->
+                <li class="Masthead-userDropdownItem">
+                    <a class="Masthead-userDropdownItem Masthead-userDropdownItem--spinner" id="become-a-cat-sitter--dropdown" href="https://catinaflat.com/register">Become a Cat Sitter</a>
+                </li>
+                <!-- /ko -->
+                <!-- Logout -->
+                <li class="Masthead-userDropdownItem">
+                    <a class="Masthead-userDropdownItem Masthead-userDropdownItem--spinner" href="https://catinaflat.com/logout">
+                        Logout
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </script> <!-- ko if: authenticated --> <!-- ko template: { name: 'authenticated_template' } --><!-- /ko --> <!-- /ko --> <button class=Masthead-burger> BurgerIcon </button> <!-- ko template: { name: 'navigation_template' } --><!-- /ko --> <ul class="Masthead-userNav hidden-xs" id=country-select> <li class=Masthead-siteNavItem> <a class="Masthead-siteNavItemInner country-select-launcher" href=# onclick="showCountrySelect(); return false;" data-locale-name=en_US> <img src=https://catinaflat.com/static/imgs/US_flag_icon-936feee6.svg alt="Flag icon" style="width: 16px;"> <span class=pipe>|</span> EN </a> </li> </ul> </header> <div class=Masthead-mask></div> </div> <nav class=DashboardNav role=navigation> <div class=DashboardNav-inner> <ul class="DashboardNav-items DashboardNav--desktoponly"> <li class=DashboardNav-item> <a class="DashboardNav-itemInner DashboardNav-itemInner--bare " href=https://catinaflat.com/blog/category/cat-behaviour> Cat Behaviour </a> </li> <li class=DashboardNav-item> <a class="DashboardNav-itemInner DashboardNav-itemInner--bare " href=https://catinaflat.com/blog/category/cat-care> Cat Care </a> </li> <li class=DashboardNav-item> <a class="DashboardNav-itemInner DashboardNav-itemInner--bare " href=https://catinaflat.com/blog/category/cat-sitting> Cat Sitting </a> </li> <li class=DashboardNav-item> <a class="DashboardNav-itemInner DashboardNav-itemInner--bare " href=https://catinaflat.com/blog/category/featured-cat-articles> Featured Articles </a> </li> </ul> <select class=DashboardNav--mobile> <option>Select Topic</option> <option data-href=https://catinaflat.com/blog/category/cat-behaviour> Cat Behaviour </option> <option data-href=https://catinaflat.com/blog/category/cat-care> Cat Care </option> <option data-href=https://catinaflat.com/blog/category/cat-sitting> Cat Sitting </option> <option data-href=https://catinaflat.com/blog/category/featured-cat-articles> Featured Articles </option> </select> </div> </nav> </div> <main class=Main> <section class="SectionClients Section--secondary SectionClients--shop SectionClients--blogListing"> <div class=SectionClients-inner> <header class=SectionClients-head> <h1>Cat care tips &amp; info</h1> </header><!-- /.SectionClients-head --> <div class=SectionClients-body> <ul class="Client-items--Secondary Client-items--blog"> <li class="Client-item ShopItem" style="clear: both;"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/how-to-know-if-your-cat-is-happy> <img src="https://catinaflat.blog/wp-content/uploads/2024/03/happy-cat-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/how-to-know-if-your-cat-is-happy> Happy Cat Happy Life: How to Know if Your Cat Is Happy </a> </h3> <p> Did you know some cats chirp when they’re happy? Cat in a Flat dives into the many ways our kitties communicate happiness! </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/how-to-know-if-your-cat-is-happy>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/things-to-know-about-the-norwegian-forest-cat> <img src="https://catinaflat.blog/wp-content/uploads/2024/03/pexels-kate-mcneil-19902540-2-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/things-to-know-about-the-norwegian-forest-cat> Everything You Need to Know About the Norwegian Forest Cat </a> </h3> <p> Did you know the Norwegian Forest Cat can be found in Norse mythology? Cat in a Flat shares more fascinating facts about this amazing breed. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/things-to-know-about-the-norwegian-forest-cat>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/what-you-need-to-know-about-the-russian-blue-cat> <img src="https://catinaflat.blog/wp-content/uploads/2024/02/russian-blue-cat-breed-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/what-you-need-to-know-about-the-russian-blue-cat> Czars of Cats: What You Need to Know About the Russian Blue Cat Breed </a> </h3> <p> Did you know that Russian Blue cats are descended from royalty? Cat in a Flat tells you everything you need to know about these regal felines. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/what-you-need-to-know-about-the-russian-blue-cat>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem" style="clear: both;"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/what-your-cat-does-when-home-alone> <img src="https://catinaflat.blog/wp-content/uploads/2024/02/cat-home-alone-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/what-your-cat-does-when-home-alone> Secret Life of Cats? What Your Cat Does When Home Alone </a> </h3> <p> Have you ever wondered what your cat does when they’re home alone? Cat in a Flat uncovers the truth behind the secret life of cats! </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/what-your-cat-does-when-home-alone>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/things-to-know-about-scottish-fold-cat> <img src="https://catinaflat.blog/wp-content/uploads/2024/01/scottish-fold-cat-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/things-to-know-about-scottish-fold-cat> Famous Felines: Everything You Need to Know About the Scottish Fold Cat </a> </h3> <p> Did you know that Scottish Fold cats are born with straight ears? Cat in a Flat shares more fascinating facts about these adorable felines. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/things-to-know-about-scottish-fold-cat>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/how-to-introduce-your-cat-to-a-baby> <img src="https://catinaflat.blog/wp-content/uploads/2024/01/cat-and-baby-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/how-to-introduce-your-cat-to-a-baby> How to Safely Introduce Your Cat to a New Baby </a> </h3> <p> Worried about whether your cat and baby will get along? Cat in a Flat shows you what to expect and how to introduce your cat to a new baby. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/how-to-introduce-your-cat-to-a-baby>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem" style="clear: both;"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/do-cats-sulk-how-to-spot-an-upset-cat> <img src="https://catinaflat.blog/wp-content/uploads/2024/01/sulking-cat-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/do-cats-sulk-how-to-spot-an-upset-cat> Do Cats Sulk? How to Spot an Upset Cat (And What to Do About It) </a> </h3> <p> Did you know your cat can sulk? Cat in a Flat finds out why cats sulk, how to know when your kitty is upset, and what you can do about it. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/do-cats-sulk-how-to-spot-an-upset-cat>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/who-is-the-european-shorthair-cat-breed> <img src=https://catinaflat.blog/wp-content/uploads/2022/03/european-shorthair-g0c0c47d44_1920.jpg alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/who-is-the-european-shorthair-cat-breed> Who Is the European Shorthair? Fascinating Facts About These Amazing Cats </a> </h3> <p> Did you know that the European Shorthair developed on its own? Cat in a Flat shares everything you should know about this wonderful cat breed. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/who-is-the-european-shorthair-cat-breed>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/amazing-new-years-resolutions-for-you-and-your-cat> <img src="https://catinaflat.blog/wp-content/uploads/2023/12/cat-new-years-resolutions-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/amazing-new-years-resolutions-for-you-and-your-cat> Meowy New Year! 5 Amazing New Year’s Resolutions for You and Your Cat </a> </h3> <p> Ready to set some goals for the coming year? Cat in a Flat has 5 amazing New Year’s resolutions you and your cat will love! </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/amazing-new-years-resolutions-for-you-and-your-cat>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem" style="clear: both;"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/best-cat-sitting-moments-of-2023> <img src="https://catinaflat.blog/wp-content/uploads/2023/12/best-cat-sitting-moments-2023-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/best-cat-sitting-moments-of-2023> A Feline Farewell to the Year: The Best Cat Sitting Moments of 2023! </a> </h3> <p> This year has been full of amazing experiences for the Cat in a Flat community. Here are our some of the best cat sitting moments of 2023! </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/best-cat-sitting-moments-of-2023>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/5-surprising-facts-about-cats> <img src="https://catinaflat.blog/wp-content/uploads/2023/11/facts-about-cats-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/5-surprising-facts-about-cats> Fascinating Felines: 5 Surprising Facts About Cats </a> </h3> <p> Did you know cats walk on their toes? Cat in a Flat reveals 5 very surprising cat facts you might not know! </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/5-surprising-facts-about-cats>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/cat-sitter-toolkit-important-things-to-know> <img src="https://catinaflat.blog/wp-content/uploads/2023/11/cat-sitter-toolkit-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/cat-sitter-toolkit-important-things-to-know> The Cat Sitter’s Toolkit: Important Things to Know for Every Situation </a> </h3> <p> Are you prepared for potential kitty emergencies? Cat in a Flat explains cat sitter toolkit must-haves for both pet sitters and paw parents. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/cat-sitter-toolkit-important-things-to-know>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem" style="clear: both;"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/keep-your-home-clean-and-cat-friendly> <img src="https://catinaflat.blog/wp-content/uploads/2023/11/keep-home-clean-with-cats-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/keep-your-home-clean-and-cat-friendly> Tips and Tricks to Keep Your Home Clean and Cat-Friendly Too </a> </h3> <p> Struggling to keep a tidy home while living with a cat? Cat in a Flat offers tips on how to keep your home clean (and cat friendly too!). </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/keep-your-home-clean-and-cat-friendly>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/stop-your-cat-from-waking-you-up-at-night> <img src="https://catinaflat.blog/wp-content/uploads/2023/10/cat-waking-up-at-night-660x420.jpg?crop=1" alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/stop-your-cat-from-waking-you-up-at-night> Nighttime Feline Fiasco: How to Stop Your Cat From Waking You up at Night </a> </h3> <p> Did you know cats are most active at dusk and dawn? Cat in a Flat shows you why your cat is waking you up at night and how you can stop it. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/stop-your-cat-from-waking-you-up-at-night>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/hiring-a-cat-sitter-over-thanksgiving-is-a-great-idea> <img src=https://catinaflat.blog/wp-content/uploads/2023/10/hire-a-cat-sitter-over-thanksgiving.jpg alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/hiring-a-cat-sitter-over-thanksgiving-is-a-great-idea> 5 Reasons Why Hiring a Cat Sitter Over Thanksgiving Is a Great Idea </a> </h3> <p> Not sure what to do with your cat during the holidays? Cat in a Flat offers 5 great reasons to hire a cat sitter over Thanksgiving. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/hiring-a-cat-sitter-over-thanksgiving-is-a-great-idea>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem" style="clear: both;"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/how-to-keep-cats-in-a-multi-cat-household-happy> <img src=https://catinaflat.blog/wp-content/uploads/2023/10/multi-cat-household.jpg alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/how-to-keep-cats-in-a-multi-cat-household-happy> How to Keep Every Cat in Your Multi-Cat Household Happy </a> </h3> <p> Not sure if you should bring another kitty into your home? Cat in a Flat offers tips on how to create a happy multi-cat household. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/how-to-keep-cats-in-a-multi-cat-household-happy>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/cat-sitter-tips-how-to-prevent-accidents-and-escapes-while-cat-sitting> <img src=https://catinaflat.blog/wp-content/uploads/2023/10/naughty_cat.png alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/cat-sitter-tips-how-to-prevent-accidents-and-escapes-while-cat-sitting> Cat Sitter Tips: How to Prevent Accidents and Escapes While Cat Sitting </a> </h3> <p> As a cat sitter, your aim is to keep your kitty clients safe. Cat in a Flat shows you how to prevent accidents while cat sitting. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/cat-sitter-tips-how-to-prevent-accidents-and-escapes-while-cat-sitting>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/how-to-be-a-great-cat-sitter> <img src=https://catinaflat.blog/wp-content/uploads/2016/06/cat_sitting.jpg alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/how-to-be-a-great-cat-sitter> Looking After Your Cat Client: Provide the Best Cat Sitting Services </a> </h3> <p> Want to be a pawsome cat sitter? Cat in a Flat offers excellent tips on how to look after your cat client! </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/how-to-be-a-great-cat-sitter>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem" style="clear: both;"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/7-tips-on-how-to-look-after-an-aggressive-cat> <img src=https://catinaflat.blog/wp-content/uploads/2023/01/angry_cat.jpg alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/7-tips-on-how-to-look-after-an-aggressive-cat> 7 Tips on How to Look After an Aggressive Cat </a> </h3> <p> Not sure what’s the best way to approach an angry kitty? Check out Cat in a Flat’s tips for looking after an aggressive cat. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/7-tips-on-how-to-look-after-an-aggressive-cat>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/should-i-use-over-night-or-pop-in-visits-for-my-next-cat-sitting-service> <img src=https://catinaflat.blog/wp-content/uploads/2020/07/standing_cat-sitter.jpg alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/should-i-use-over-night-or-pop-in-visits-for-my-next-cat-sitting-service> Overnight Stays or Drop-in Visits: Which Cat Sitting Service Is Better? </a> </h3> <p> Are drop-in visits or overnight stays better for your cat? Cat in a Flat explains each cat sitting service and what is best for your kitty. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/should-i-use-over-night-or-pop-in-visits-for-my-next-cat-sitting-service>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/how-to-judge-a-good-cat-sitter> <img src=https://catinaflat.blog/wp-content/uploads/2023/01/Nicky_and_eddie-1.png alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/how-to-judge-a-good-cat-sitter> How to Judge a Good Cat Sitter </a> </h3> <p> Going away and worried about finding pet care for your cat? Cat in a Flat shows you how to find a good cat sitter. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/how-to-judge-a-good-cat-sitter>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem" style="clear: both;"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/how-to-stop-your-cat-scratching-furniture> <img src=https://catinaflat.blog/wp-content/uploads/2023/09/cat-scratching-furniture.jpg alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/how-to-stop-your-cat-scratching-furniture> Cat Scratching Your Furniture? Why Cats Scratch and How to Stop It </a> </h3> <p> Did you know your cat marks their territory by scratching? Cat in a Flat explains why cats scratch and how you can stop it. </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/how-to-stop-your-cat-scratching-furniture>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/how-to-ensure-cat-sitting-clients-get-excercise> <img src=https://catinaflat.blog/wp-content/uploads/2023/09/cats-and-exercise.jpg alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/how-to-ensure-cat-sitting-clients-get-excercise> Cat Playtime Guide: How to Ensure Cat Sitting Clients Get Enough Exercise </a> </h3> <p> Worried about your cat clients getting enough exercise? Cat in a Flat breaks down everything cat sitters need to know about daily playtime! </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/how-to-ensure-cat-sitting-clients-get-excercise>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> <li class="Client-item ShopItem"> <div class=Client-itemMedia> <a href=https://catinaflat.com/blog/tips-to-deal-with-excessive-meowing> <img src=https://catinaflat.blog/wp-content/uploads/2023/09/excessive-meowing-in-cats.jpg alt="Thumbnail image for blog post: "> </a> </div><!-- /.Client-itemMedia --> <div class=Client-itemContent> <h3 style="line-height: 1.2em; padding-bottom: 0.5em;"> <a href=https://catinaflat.com/blog/tips-to-deal-with-excessive-meowing> Cat Won’t Stop Meowing? Tips to Deal With Excessive Meowing and Yowling </a> </h3> <p> Is your cat meowing more than usual? Cat in a Flat explains how to identify normal meowing and excessive meowing (and how to deal with it). </p> <p class=ShopItem-price> <a href=https://catinaflat.com/blog/tips-to-deal-with-excessive-meowing>Read more</a> </p> </div><!-- /.Client-itemContent --> </li><!-- /.Client-item --> </ul><!-- /.Client-items --> <div class=Pagination> &nbsp; Page 1 of 8 &nbsp; <span class=Next> <a rel=next href="https://catinaflat.com/blog?page=2">Next &raquo;</a> </span> </div> </div><!-- /.SectionClients-body --> </div><!-- /.SectionClients-inner --> </section><!-- /.Section --> </main><!-- /.Main --> <section class=SectionPayments> <h5 class=Section-title--hide>Payment Method Information</h5> <div class=SectionPayments-inner> <div class=Payments> <i class="Ico Ico--piggy"></i> <div class=Payments-inner> <p>Pay Securely</p> <input type=hidden name=cmd value=_s-xclick> <input type=hidden name=hosted_button_id value=P3DGWLV6T8MDC> <span> <img src=https://catinaflat.com/static/imgs/temp/cc1-2336644a.svg alt="American Express"> <img src=https://catinaflat.com/static/imgs/temp/cc2-41bf7744.svg alt=MasterCard> <img src=https://catinaflat.com/static/imgs/temp/cc3-6ef2acbf.svg alt=Visa> <!--img src="https://catinaflat.com/static/imgs/temp/cc4-3276fcc9.svg" alt=""--> </span> </div><!-- /.Payments-inner --> </div><!-- /.Payments --> </div><!-- /.SectionPayments-inner --> </section><!-- /.section --> <footer class=Footer role=contentinfo> <div class=Footer-inner> <div class=Footer-navAndShare> <div class="Footer-nav Footer-nav-mobile-1"> <ul class=Footer-navInner> <li class=Footer-navItem> <a href=https://catinaflat.com/about class=Footer-navItemInner>About Us</a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/vetting class=Footer-navItemInner>Cat in a Flat Guarantee</a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/terms class=Footer-navItemInner>Terms & Conditions</a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/contact class=Footer-navItemInner>Contact us</a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/privacy class=Footer-navItemInner>Privacy Policy</a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/code class=Footer-navItemInner>Code of Conduct</a> </li> <li class=Footer-navItem> <a class=Footer-navItemInner href=https://catinaflat.com/cookies> Cookie Policy </a> </li> <li class=Footer-navItem> <a class=Footer-navItemInner href=https://support.catinaflat.com/en/support/home> Help </a> </li> </ul> </div> <div class="Footer-nav Footer-nav-mobile-2"> <ul class=Footer-navInner> <li class=Footer-navItem> <a class=Footer-navItemInner href=https://catinaflat.com/blog> Blog </a> </li> <li class=Footer-navItem> <a class=Footer-navItemInner href=https://catinaflat.com/shop> Shop </a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/cat-boarding class=Footer-navItemInner>Cat Boarding</a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/cat-sitter-reviews class=Footer-navItemInner>Cat Sitter Reviews</a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/daily-home-visits class=Footer-navItemInner>Daily home visits</a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/cat-sitter-near-me class=Footer-navItemInner>Last Minute Cat Sitting</a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/local-cat-sitter class=Footer-navItemInner>Local Cat Sitter</a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/over-night-cat-minding class=Footer-navItemInner>Overnight Care</a> </li> <li class=Footer-navItem> <a href=https://catinaflat.com/pet-sitting-near-me class=Footer-navItemInner>Pet sitters</a> </li> </ul> </div> <aside class="Footer-share Footer-nav-mobile-3"> <h5 class=Aside-title--hide>Cat In A Flat on Social Media</h5> <p class=Footer-shareMessage> <span class=Footer-shareTitle>Follow us</span> </p> <div class=Footer-shareLinks> <a class=Footer-shareLink href=https://www.facebook.com/catinaflat target=_blank> <img class=Footer-shareIcon src=https://catinaflat.com/static/imgs/facebook-9e218a9f.svg alt="View on Facebook"> </a> <a class=Footer-shareLink href=https://www.instagram.com/catinaflat/ target=_blank> <img class=Footer-shareIcon src=https://catinaflat.com/static/imgs/instagram-3d90b793.svg alt="View on Instagram" style="height: 50px;"> </a> <a class=Footer-shareLink href=https://twitter.com/catinaflat target=_blank> <img class=Footer-shareIcon src=https://catinaflat.com/static/imgs/twitter-e09cf153.svg alt="View on Instagram"> </a> </div> </aside> </div> <div class="Footer-landingPages Footer-nav-mobile-3"> <ul class=Footer-landingPagesInner> <li class=Footer-landingPageItem> <a class=Footer-landingPageItemInner href=https://catinaflat.com/cat-sitters/boston>Boston</a> </li> <li class=Footer-landingPageItem> <a class=Footer-landingPageItemInner href=https://catinaflat.com/cat-sitters/brooklyn>Brooklyn </a> </li> <li class=Footer-landingPageItem> <a class=Footer-landingPageItemInner href=https://catinaflat.com/cat-sitters/manhattan>Manhattan </a> </li> <li class=Footer-landingPageItem> <a class=Footer-landingPageItemInner href=https://catinaflat.com/cat-sitters/newark>Newark</a> </li> <li class=Footer-landingPageItem> <a class=Footer-landingPageItemInner href=https://catinaflat.com/cat-sitters/new-york-city>New York</a> </li> <li class=Footer-landingPageItem> <a class=Footer-landingPageItemInner href=https://catinaflat.com/cat-sitters/queens>Queens</a> </li> <li class=Footer-landingPageItem> <a class=Footer-landingPageItemInner href=https://catinaflat.com/cat-sitters/yonkers>Yonkers</a> </li> <li class=Footer-landingPageItem> <a class=Footer-landingPageItemInner href=https://catinaflat.com/cat-sitters>Other Cities</a> </li> </ul> </div> <div class=Footer-countries> <ul class=Footer-countriesInner> <li class=Footer-countryItem> <a class=Footer-countryItemInner href=https://catinaflat.at>Austria</a> </li> <li class=Footer-countryItem> <a class=Footer-countryItemInner href=https://catinaflat.be>Belgium</a> </li> <li class=Footer-countryItem> <a class=Footer-countryItemInner href=https://catinaflat.fr>France</a> </li> <li class=Footer-countryItem> <a class=Footer-countryItemInner href=https://catinaflat.de>Germany</a> </li> <li class=Footer-countryItem> <a class=Footer-countryItemInner href=https://catinaflat.ie>Ireland</a> </li> <li class=Footer-countryItem> <a class=Footer-countryItemInner href=https://catinaflat.nl>Netherlands</a> </li> <li class=Footer-countryItem> <a class=Footer-countryItemInner href=https://catinaflat.ch>Switzerland</a> </li> <li class=Footer-countryItem> <a class=Footer-countryItemInner href=https://catinaflat.co.uk>United Kingdom</a> </li> <li class=Footer-countryItem> <a class=Footer-countryItemInner href=https://catinaflat.com>United States</a> </li> </ul> </div> <small class=Footer-copyright> &copy; Copyright 2024 Cat in a Flat <span style="float: right;"> <a class="Masthead-siteNavItemInner country-select-launcher" href=# onclick="showCountrySelect(); return false;" data-locale-name=en_US> <img src=https://catinaflat.com/static/imgs/US_flag_icon-936feee6.svg alt="Flag icon" style="width: 16px;"> <span class=pipe>|</span> EN </a> </span> </small> </div> </footer> <div id=login-lightbox class=Popup> <div class=Popup-inner> <h5 class="override-h1 Popup-title Popup-title--lg">Login</h5><!-- /.Popup-title --> <div class="Form Form--access"> <form id=profile-form autocomplete=off role=form action="https://catinaflat.com/login?redirect_to=https%3A%2F%2Fcatinaflat.com%2Fblog" method=POST> <div class=Form-body> <input id=csrf_token name=csrf_token type=hidden value=20240326143523##fd5976f919c6b2672118ae35b6b2540d66abc624> <div class=Form-row> <div class=Form-controls> <input class=Form-Field id=email name=email placeholder="Email Address" type=text value> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> <div class=Form-row> <div class=Form-controls> <input class=Form-Field id=password name=password placeholder=Password type=password value> </div> </div> </div> <div class=Form-foot> <div class=Form-actions> <button type=submit class="Btn Btn--secondary">Sign in</button> </div><!-- /.Form-actions --> <p> <a href=https://catinaflat.com/password/forgotten>Forgot your password?</a> </p> <p> <span>Not yet signed up?</span> <a href=https://catinaflat.com/signup>Join us here</a> <span>or <a href=https://catinaflat.com/register>Become a Cat Sitter</a> </span> </p> </div><!-- /.Form-foot --> </form> </div><!-- /.Form --> <div class=Popup-actions> <a href=# class=Link-close> <i class="Ico Ico--remove"></i> </a> </div><!-- /.Popup-actions --> </div> <!-- /.Popup-inner --> </div> <!-- /.Popup --> <div id=signup-lightbox class=Popup> <div class=Popup-inner style="position: relative; padding-bottom: 120px;"> <h5 class="override-h1 Popup-title"> Join to Book </h5><!-- /.Popup-title --> <div class=Popup-entry> <p> Fill in your details to join the community and book this cat sitter, or <a class=has--lightbox href=#login-lightbox>log-in</a> . </p> </div><!-- /.Popup-entry --> <div class="Form Form--access"> <form id=profile-form autocomplete=off role=form action="https://catinaflat.com/signup?redirect_to=https%3A%2F%2Fcatinaflat.com%2Fblog&signup_lightbox=True" method=POST> <input id=csrf_token name=csrf_token type=hidden value=20240326143523##fd5976f919c6b2672118ae35b6b2540d66abc624> <input id=nonce name=nonce type=hidden value="MTcxMTQyNzcyMy4wNDYyNDM="> <input id=country name=country type=hidden value=US> <div class=Form-body> <div class=Form-row> <div class="Form-controls "> <input class=Form-Field id=firstname name=firstname placeholder=*Name type=text value> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> <div class=Form-row> <div class="Form-controls "> <input autocomplete=username class=Form-Field id=email name=email placeholder=*Email type=text value> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> <div class=Form-row> <div class="Form-controls "> <input class=Form-Field id=postcode name=postcode placeholder="ZIP code" type=text value> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> <div class="Form-row Bee-vomit--container"> <div class="Form-controls "> <input class=Form-Field id=website name=website placeholder="Leave this field blank" type=text value> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> <div class=Form-row> <div class="Form-controls "> <input autocomplete=new-password class=Form-Field id=password name=password placeholder=*Password type=password value> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> <div class=Form-row> <div class="Form-controls "> <div class=Select> <select id=region name=region><option value=None>Select your state</option><option value="New Jersey">New Jersey</option><option value="New York">New York</option><option value=Massachusetts>Massachusetts</option><option value=Other>Other</option></select> </div> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> </div><!-- /.Form-body --> <div class=Form-foot> <div class> <div class="Checkbox-item Checkbox-item--reversed "> <input id=terms_and_conditions name=terms_and_conditions type=checkbox value=y> <label for=terms_and_conditions> <span style="font-weight: 400; font-size:14px;"> I agree to Cat in a Flat's <a class="link--purple link--underline" href=https://catinaflat.com/terms target=_BLANK>T&Cs</a> and <a class="link--purple link--underline" href=https://catinaflat.com/privacy target=_BLANK>Privacy Policy</a> </span> </label> </div> </div> <div class=Form-actions> <button type=submit name=owner style="text-transform: uppercase;" class="Btn Btn--secondary g-recaptcha" data-badge=inline data-sitekey=6LdLh4saAAAAAOmS8nylk9QvyHPlbrP0PxfgXIC9 data-callback=submit_signup_lightbox> Join to book </button> <a class=has--lightbox style="text-transform: uppercase;" href=#login-lightbox>LOGIN</a> </div><!-- /.Form-actions --> <div class=Form-actions--inverted> <div class=Form-actions style="padding-bottom: 15px;"> <a class="has--lightbox Btn Btn--primary" style="text-transform: uppercase;" href=https://catinaflat.com/register?showform>Become a Cat Sitter</a> <br> </div> </div> </div><!-- /.Form-foot --> </form> </div><!-- /.Form --> <div class=Popup-actions> <a href=# class=Link-close> <i class="Ico Ico--remove"></i> </a> </div><!-- /.Popup-actions --> </div><!-- /.Popup-inner --> </div> <div id=notify-lightbox class=Popup> <div class=Popup-inner> <h5 class="override-h1 Popup-title">Notify me</h5><!-- /.Popup-title --> <div class=Popup-entry> <p> We will let you know when a new sitter has signed up near you. </p> </div><!-- /.Popup-entry --> <div class="Form Form--access"> <form id=profile-form autocomplete=off role=form action="https://catinaflat.com/signup?notify_lightbox=True" method=POST> <input id=csrf_token name=csrf_token type=hidden value=20240326143523##fd5976f919c6b2672118ae35b6b2540d66abc624> <div class=Form-body> <div class=Form-row> <div class="Form-controls "> <input class=Form-Field id=postcode name=postcode placeholder="ZIP code" required=true type=text value> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> <div class=Form-row> <div class=Select> <div class="Form-controls "> <select class=Form-Field id=region name=region placeholder="Select your state" required=true><option value=None>Select your state</option><option value="New Jersey">New Jersey</option><option value="New York">New York</option><option value=Massachusetts>Massachusetts</option><option value=Other>Other</option></select> </div><!-- /.Form-controls --> </div> </div><!-- /.Form-row --> <div class=Form-row> <div class="Form-controls "> <input class=Form-Field id=firstname name=firstname placeholder=*Name type=text value> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> <div class=Form-row> <div class="Form-controls "> <input class=Form-Field id=email name=email placeholder=*Email type=text value> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> <div class="Form-row Bee-vomit--container"> <div class="Form-controls "> <input class=Form-Field id=email name=email placeholder="Leave this field blank" type=text value> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> <div class=Form-row> <div class="Form-controls "> <input class=Form-Field id=password name=password placeholder=*Password type=password value> </div><!-- /.Form-controls --> </div><!-- /.Form-row --> </div><!-- /.Form-body --> <div class=Form-foot> <div class> <div class="Checkbox-item Checkbox-item--reversed "> <input id=terms_and_conditions_notify name=terms_and_conditions type=checkbox value=y> <label for=terms_and_conditions_notify> <span style="font-weight: 400; font-size:14px;"> I agree to Cat in a Flat's <a class="link--purple link--underline" href=https://catinaflat.com/terms target=_BLANK>T&Cs</a> and <a class="link--purple link--underline" href=https://catinaflat.com/privacy target=_BLANK>Privacy Policy</a> </span> </label> </div> </div> <div class=Form-actions> <button type=submit name=owner class="Btn Btn--secondary g-recaptcha" data-badge=inline data-sitekey=6LdLh4saAAAAAOmS8nylk9QvyHPlbrP0PxfgXIC9 data-callback=submit_notify_lightbox> JOIN FOR FREE </button> <a class=has--lightbox href=#login-lightbox>LOGIN</a> </div><!-- /.Form-actions --> </div><!-- /.Form-foot --> </form> </div><!-- /.Form --> <div class=Popup-actions> <a href=# class=Link-close> <i class="Ico Ico--remove"></i> </a> </div><!-- /.Popup-actions --> </div><!-- /.Popup-inner --> </div> <div id=progress-spinner-lightbox class="Popup Popup--spinner"> <div class=Popup-inner> <div class=Popup-entry> <img src=https://catinaflat.com/static/imgs/spinner-8bf9c040.gif alt="Loading image"> <p> Processing your request. Please wait. </p> </div><!-- /.Popup-entry --> <div class=Popup-actions> <!-- Because htmlburger built really brittle styles, this 
+                 is needed. I daren't look to find out why 
+            --> &nbsp; </div><!-- /.Popup-actions --> </div><!-- /.Popup-inner --> </div> <div id=country-select-lightbox class="Popup Popup--country-select "> <form action=https://catinaflat.com/_set_market method=POST> <div class=Popup-inner style="padding-top: 48px;"> <div class=Popup-entry> <img src=https://catinaflat.com/static/imgs/Globe_cat-0ed9e27e.svg alt=Globe style="height: 120px; display: block; margin: 0 auto 0; margin-bottom: 16px;"> <p style="font-size: 1em;"> Please confirm your country and preferred language. </p> <div class=Form-row style="margin-bottom: 24px;"> <div class=Form-controls> <div class=Select> <select name=market> <option value=https://catinaflat.at> Austria </option> <option value=https://catinaflat.be> Belgium </option> <option value=https://catinaflat.fr> France </option> <option value=https://catinaflat.de> Germany </option> <option value=https://catinaflat.ie> Ireland </option> <option value=https://catinaflat.nl> Netherlands </option> <option value=https://catinaflat.ch> Switzerland </option> <option value=https://catinaflat.co.uk> United Kingdom </option> <option value=https://catinaflat.com selected> United States </option> </select> </div> </div> </div> <div class=Form-row style="margin-bottom: 48px;"> <div class=Form-controls> <div class=Select> <select name=language> <option value=de> German </option> <option value=en selected> English </option> <option value=fr> French </option> </select> </div> </div> </div> <div class=Form-actions> <div class=Form-actions style="padding-bottom: 15px;"> <button name=change_market type=submit class="Btn Btn--secondary" style="text-transform: uppercase;">Select</button> </div> </div> </div><!-- /.Popup-entry --> <div class=Popup-actions> <!-- Because htmlburger built really brittle styles, this 
+                    is needed. I daren't look to find out why 
+                --> <a href=# class=Link-close> <i class="Ico Ico--remove"></i> </a> </div><!-- /.Popup-actions --> </div><!-- /.Popup-inner --> </form> </div> <script>
+        // Used by the cordova hooks file.
+        const BASE_HREF = "catinaflat.com";
+        // Used by ajax requests
+        const APPLICATION_URL = "https://catinaflat.com";
+        // Used by the date picker
+        const BASE_LANG = "en";
+        const DATEPICKER_FORMAT = "US" == "US" ? 'M dd y' : 'dd M y';
+
+        // Various Strings that appear in the compiled JS and therefore can't be translated so easily by the PO files
+        const TRANSLATIONS = {
+            "calendar": {
+                "available": "Sitter is available",
+                "unavailable": "Sitter is unavailable",
+                "past": "Date is in the past"
+            },
+            "loading": "Loading..."
+        };
+    </script> <script src=https://catinaflat.com/static/js/head-b4a03e7f.js></script> <!-- Custom styles for this template --> <link rel=stylesheet href=https://catinaflat.com/static/js/vendor/owl.carousel-2.0.0/assets/owl.carousel.min.css> <link rel=stylesheet href=https://catinaflat.com/static/js/vendor/jquery-ui-1.11.4/jquery-ui.min.css> <script src=https://catinaflat.com/static/src-mobile-first/web_modules/offline/index-fbfed7d4.js></script> <script src=https://catinaflat.com/static/js/libs-6ff9d6cd.js></script> <script src=https://catinaflat.com/static/src-mobile-first/web_modules/cookies/index-8428dc52.js></script> <script type=text/javascript src=https://catinaflat.com/static/js/vendor/owl.carousel-2.0.0/owl.carousel.min.js></script> <script type=text/javascript src=https://catinaflat.com/static/js/vendor/jquery-ui-1.11.4/jquery-ui.min.js></script> <script type=text/javascript src=https://catinaflat.com/static/js/vendor/datepicker-de.js></script> <script type=text/javascript src=https://catinaflat.com/static/js/vendor/datepicker-fr.js></script> <script src=https://catinaflat.com/static/src-mobile-first/web_modules/masthead/index-155d556d.js></script> <script src=https://catinaflat.com/static/src-mobile-first/web_modules/rating-input/index-ba894638.js></script> <script src=https://catinaflat.com/static/src-mobile-first/web_modules/popup/index-9df22702.js></script> <script src=https://catinaflat.com/static/src-mobile-first/web_modules/tooltip/index-92004743.js></script> <script src=https://catinaflat.com/static/src-mobile-first/web_modules/nav/index-fae7c327.js></script> <script src=https://catinaflat.com/static/src-mobile-first/web_modules/show_password/index-dd20cd5b.js></script> <script src=https://catinaflat.com/static/js/cordova_hooks-2d1deb49.js></script> <script type=text/javascript src=https://catinaflat.com/static/js/vendor/pulltorefresh.min.js></script> <script>
+        // device width breakpoint
+        function tablet_or_wider() {
+            return $(window).width() > 767;
+        }
+        function desktop_or_wider() {
+            vp = viewport();
+            // Make this the same breakpoint as for the desktop css to load
+            if (vp.width >= 920) {
+                return true;
+            }
+            return false;
+        }
+
+        $(function (){ 
+            // Pull to refresh 
+            const ptr = PullToRefresh.init({
+                mainElement: 'body',
+                onRefresh() {
+                    var prompt = false;
+                    
+                    if (prompt) {
+                        var leave = confirm("Do you want to leave this page?  You may lose your changes.");
+                        if (leave) window.location.reload();
+                    } else {
+                        window.location.reload();
+                    }
+                }
+            });
+            // set the defaults for the datepicker
+            $.datepicker.setDefaults($.datepicker.regional[BASE_LANG]);
+        });
+
+        // Prevent native add to homescreen prompt
+        //window.addEventListener("beforeinstallprompt", (event) => {
+            // Save the event in case we want it later?
+            //window._installprompt = evt;
+            //evt.preventDefault();
+        //});
+
+        function show_back_button() {
+             // right now this is only adding a class to a potentially pre-existing button
+             $(".floating-back-button").addClass("is--visible");
+             $(".floating-back-button").on("click", function(evt){
+                // Do a naive backwards navigation
+                window.location = $(".floating-back-button").data("return-location");
+            });
+        }
+
+        // Wrapped app is ready
+        window.addEventListener("ciaf-app-ready", function(evt) {
+            $("body").addClass("ciaf-wrapped-app");
+            // Kill recaptcha
+            $(".g-recaptcha").removeClass("g-recaptcha");
+            // Configure back button if appropriate
+            show_back_button();
+        });
+
+        const country_select_lightbox = $("#country-select-lightbox");
+        function showCountrySelect(evt) {
+            if (evt) {
+                evt.preventDefault();
+            }
+            country_select_lightbox.addClass("is--visible");
+            return false;
+        }
+
+        // Maybe show the market chooser
+        $(function() {
+            const market_cookie_name = "catinaflat_market_confirmed";
+            // check for the market cookie
+            const market_cookie_complete = document.cookie.split('; ').find((row) => row.startsWith(market_cookie_name+"="));
+            const market_cookie = market_cookie_complete ? market_cookie_complete.split('=')[1] : null;
+
+            const country_mismatch = "False" == "True" ? true : false;
+            if (country_mismatch && !market_cookie) {
+                CIAF.cookies.suppress_cookie_banner();
+                country_select_lightbox.addClass("is--visible");
+            }
+        });
+
+        // Allow focusout to hide error messages too. This means that mobile devices
+        // also won't get stuck
+        $(".Form .Form-controls--error .Form-Field--error").on("mouseover focusin", function(event) {
+            $(this).closest(".Form-controls--error").find(".Form-error").css({
+                "visibility": "visible",
+                "opacity": 1,
+            });
+        });
+        $(".Form .Form-controls--error .Form-Field--error").on("mouseout focusout change blur", function(event) {
+            $(this).closest(".Form-controls--error").find(".Form-error").css({
+                "visibility": "hidden",
+                "opacity": 0,
+            });
+        });
+    </script> <script type=text/javascript>
+        // Set a variable for the search location helper
+        let ciaf_user_location;
+        let ciaf_search_url = "https://catinaflat.com/search";
+        
+    </script> <script type=text/javascript src=https://catinaflat.com/static/src-mobile-first/web_modules/client/index-0e67813f.js></script> <script type=text/javascript src=https://catinaflat.com/static/src-mobile-first/web_modules/blog/index-be5455d5.js></script> <script>
+      $(document).foundation();
+    </script> <!--script type="text/javascript">var mobilefirst = document.createElement('link');mobilefirst.rel = 'stylesheet';mobilefirst.href = 'https://catinaflat.com/static/css/mobile-first-1c5018cc.css';mobilefirst.type = 'text/css';var links = document.getElementsByTagName('link')[0];links.parentNode.insertBefore(mobilefirst, links);</script--> <noscript> <link rel=stylesheet type=text/css href=https://catinaflat.com/static/css/mobile-first-1c5018cc.css> </noscript> <script>function viewport() {var e = window, a = 'inner';if (!('innerWidth' in window )) {a = 'client';e = document.documentElement || document.body;}return { width : e[ a+'Width' ] , height : e[ a+'Height' ] };}</script> <script>
+      $(document).ready(function(){
+          $(document).on('click', '#login-link, #login-link-lightbox, .require-login', function(e){if (navigator.onLine) { $('#login-lightbox').addClass('is--visible'); ga('send', 'event', 'register', 'light login');e.preventDefault();}});$('body').on('click', '.require-signup', function(e){recaptcha_signup_lightbox();
+                  $('#signup-lightbox').addClass('is--visible');
+                  e.preventDefault();});
+          $("#signup-lightbox form").on("submit", function(e){
+              $("#signup-lightbox form button").attr("disabled", true);
+          });
+          $('.has-error').keydown(function(){$(this).removeClass('has-error');});function determine_screen_size(){var e=$(window).width();if($("#no_geo").remove(),e>=768)$("body").data("is-mobile",!1);else{$("body").data("is-mobile",!0);var o=$("<input>").attr({type:"hidden",id:"no_geo",name:"no_geo",value:!0});o.appendTo("form#search-form"),o.appendTo("form.Masthead-searchForm")}}$(window).resize(determine_screen_size),determine_screen_size();
+      });</script> <!-- reCaptcha if user is not logged in --> <script type=text/javascript id=put-recaptcha-after-me>
+        
+        function submit_notify_lightbox(token) {
+            $("#notify-lightbox form").submit();
+        }
+        function submit_signup_lightbox(token) {
+            $("#signup-lightbox form").submit();
+        }
+
+        function load_recaptcha() {
+            let recaptcha_exists = $("#recaptcha-script-tag");
+            if (recaptcha_exists.length == 0) {
+                let target = $("#put-recaptcha-after-me");
+                let recaptcha_script = document.createElement("script");
+                recaptcha_script.src = "https://www.google.com/recaptcha/api.js";
+                $(recaptcha_script).attr("id", "recaptcha-script-tag");
+                target.append(recaptcha_script);
+            }
+        }
+        function recaptcha_signup_lightbox() {
+            load_recaptcha();
+        }
+        function recaptcha_register_lightbox() {
+            load_recaptcha();
+        }
+        var recaptchaDeferredCallback = function() {
+            
+        }
+    </script> </body> </html>
